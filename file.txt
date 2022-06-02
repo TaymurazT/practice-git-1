@@ -5,3 +5,4 @@ My first line in project
 Paris is the capital of France
 =======
 >>>>>>> parent of 42e6641... Capital added
+index understandin
